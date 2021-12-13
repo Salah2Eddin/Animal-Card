@@ -1,0 +1,34 @@
+.name{margin: 0.5em;
+	  padding: 0.5em;
+	  }
+img{border: 2px solid #000000;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.interesting{
+	font-style: italic;
+	font-size: 18px
+	
+}
+.fact{
+	font-weight: bold
+} 
+.facts{margin: 0.5em auto;
+	   width: 300px;
+	   }
+.disc{border: 2px solid #DFDFDF;
+	  margin: 0.5em auto;
+	  padding: 0.5em;
+	  width: 300px;
+	  font-size: 10pt;
+	  }
+.main{border: 2px solid #000000;
+	  margin: 5px auto;
+	  padding: 0.5em;
+	  width: 325px;
+	  box-shadow: 10px 10px 8px #888888;
+	  }
+body{padding:5px;
+	font-family: 'Karla' , serif;
+}
